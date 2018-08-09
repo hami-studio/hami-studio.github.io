@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://hami.netlify.com/* http://hami.co.in/:splat 301!
