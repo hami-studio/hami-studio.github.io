@@ -1,3 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
 https://hami.netlify.com/* https://hami.co.in/:splat 301!
-/unclutter/* https://unclutter.netlify.com/:splat 200
+/unclutter/* https://unclutter.netlify.com/:splat 301!
